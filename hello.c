@@ -5,7 +5,7 @@ int main()
 {
 	char name[10];
 	scanf("%s", name);
-	printf("Hello, %s!\n", name);
+	printf("Hello, %s! Nice to see you\n", name);
 
 	return 0;
 }
